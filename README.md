@@ -6,7 +6,7 @@ The product generating the most revenue wasn't the one with the highest operatin
 
 This finance analytics project examines those differences through transaction-level reporting, profitability analysis and data-quality checks. It uses **synthetic transactions with healthcare-themed customer names**—not hospital accounts, insurance claims or actual healthcare business results.
 
-Adding a screenshot after uploading the final dashboard image to assets/executive-overview.png:
+Adding a screenshot of final dashboard image to assets/executive-overview.png:
 <img width="1392" height="860" alt="Executive_Overview" src="https://github.com/user-attachments/assets/b655e406-232e-42a4-aeeb-fb2f6886d0f1" />
 
 
