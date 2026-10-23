@@ -1,4 +1,4 @@
-# Finance Analytics | Looking Beyond Revenue, From Transaction Data to Decision-Ready Reporting
+# Finance Analytics | From Transaction Data to Decision-Ready Reporting
 
 **100,000 synthetic transactions · SQL Server · Python · Power BI**
 
