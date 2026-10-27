@@ -6,7 +6,7 @@ The product generating the most revenue wasn't the one with the highest operatin
 
 This finance analytics project examines those differences through transaction-level reporting, profitability analysis and data-quality checks. It uses **synthetic transactions with healthcare-themed customer names**—not hospital accounts, insurance claims or actual healthcare business results.
 
-Adding a screenshot of final dashboard image to assets/executive-overview.png:
+Screenshot of Executive Overview:-
 <img width="1392" height="860" alt="Executive_Overview" src="https://github.com/user-attachments/assets/b655e406-232e-42a4-aeeb-fb2f6886d0f1" />
 
 
@@ -94,6 +94,6 @@ Finance-Analytics-GitHub/
 ├── assets/                      # Add dashboard screenshots later
 ```
 
-The SQL and Python files show the transformations and financial logic; the supplied CSV extracts allow the results to be inspected. Screenshot and PBIX links will be added when the final files are uploaded.
+The SQL and Python files show the transformations and financial logic; the supplied CSV extracts allow the results to be inspected. 
 
 **Scope:** This is a portfolio analysis of synthetic data, not a production deployment. The comparisons are descriptive: they support financial investigation, not claims of actual savings, performance improvements or established causes.
